@@ -2,7 +2,7 @@
 ![Full Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQEa70P4iaLtHg/profile-displaybackgroundimage-shrink_350_1400/0/1668870199692?e=1674086400&v=beta&t=vhmpyu4eZkvGQSVrxus3GXoZJ4UJ4DwUerO-fBaycHo)
 
 
-# Hi there 👋, I'm Mohammad Borhan
+# Hi there 👋, I'm Mohammad Borhan Uddin
 ## Full Stack Developer
 ![Profile views](https://gpvc.arturio.dev/borhansahed)  
 
