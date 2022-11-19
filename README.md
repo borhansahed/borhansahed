@@ -4,6 +4,7 @@
 
 # Hi there 👋, I'm Mohammad Borhan
 ## Full Stack Developer
+![Profile views](https://gpvc.arturio.dev/borhansahed)  
 
  I love to solve problems. I always try to go outside of my comfort zone.  I love to work and explore new technologies.
  My hobby is traveling.
@@ -25,4 +26,3 @@ Skills: DSA /JAVA /REACT / JAVASCRIPT / NEXTJS / NODEJS /EXPESSJS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=borhansahed&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/borhansahed)  
