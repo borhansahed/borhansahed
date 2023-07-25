@@ -4,7 +4,9 @@
 
 # Hi there 👋, I'm Mohammad Borhan Uddin
 ## Full Stack Developer
-![Profile views](https://gpvc.arturio.dev/borhansahed)  
+![Profile views]([https://gpvc.arturio.dev/borhansahed](https://media.licdn.com/dms/image/D5616AQHTkeAHU181ag/profile-displaybackgroundimage-shrink_350_1400/0/1679285333746?e=1695859200&v=beta&t=uvEczyCseXD5gLkR40mkSovJkfeIZ5Y0niXGCc7rf5A)) 
+
+<a href="https://app.daily.dev/borhan_sahed"><img src="https://api.daily.dev/devcards/3aae866f7fe94659beee2a64ebc7c7d9.png?r=j65" width="400" alt="Mohammad Borhan Uddin's Dev Card"/></a>
 
  I love to solve problems. I always try to go outside of my comfort zone.  I love to work and explore new technologies.
  My hobby is traveling.
