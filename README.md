@@ -3,8 +3,6 @@
 <h3 align="center">A passionate full stack developer from Bangladesh. I love to solve problems. I always try to go outside of my comfort zone. I love to work and explore new technologies. My hobby is traveling.</h3>
 
 <p align="left">
-<a href="https://app.daily.dev/borhan_sahed"><img src="https://api.daily.dev/devcards/3aae866f7fe94659beee2a64ebc7c7d9.png?r=j65" width="350" alt="Mohammad Borhan Uddin's Dev Card"/></a>
-
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **react, java, javaScript**
@@ -12,6 +10,8 @@
 - 📫 How to reach me **mohammadborhan022@gmail.com**
 
 - ⚡ Fun fact **lazy but hard worker**
+
+<a href="https://app.daily.dev/borhan_sahed"><img src="https://api.daily.dev/devcards/3aae866f7fe94659beee2a64ebc7c7d9.png?r=j65" width="350" alt="Mohammad Borhan Uddin's Dev Card"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
