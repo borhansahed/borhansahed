@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm  Mohammad Borhan Uddin. A passionate Software developer from Bangladesh. I love to solve problems. I always try to go outside of my comfort zone. I love to work and explore new technologies. My hobby is traveling.<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning DSA<br>- ⚡ In my free time learn new things</p>
+<p align="left">I'm  Mohammad Borhan Uddin. A passionate Software developer from Bangladesh. I love to solve problems. I always try to go outside of my comfort zone. I love to work and explore new technologies. My hobby is traveling.<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning DSA & Golang<br>- ⚡ In my free time learn new things</p>
 
 ###
 
@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://asset.brandfetch.io/idykQnbEJm/idHFgyE8BR.png" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
